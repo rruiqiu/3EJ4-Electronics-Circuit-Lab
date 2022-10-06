@@ -1,0 +1,4 @@
+Circuit: * C:\Users\richa\Desktop\3ej4\lab2\experiment\partb\2.5.asc
+
+Fatal Error: Syntax error in .DC command.
+   "101" is not the name of an independent source or "temp".
