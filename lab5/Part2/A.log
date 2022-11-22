@@ -1,0 +1,95 @@
+Circuit: * C:\Users\richa\Desktop\3ej4\lab5\Part2\A.asc
+
+Instance "m:u1:55": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:54": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:52": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:51": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:48": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:46": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:45": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:50": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:49": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:44": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:43": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:42": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:41": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:53": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:23": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:1": Length shorter than recommended for a level 1 MOSFET.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.86414
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.77984
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 78.2197%
+Source Step = 78.9299%
+Source Step = 79.4034%
+Source Step = 79.8769%
+Source Step = 80.3504%
+Source Step = 80.8239%
+vernier = 0.0234375
+Source Step = 81.4394%
+Source Step = 82.1496%
+Source Step = 82.8598%
+Source Step = 83.5701%
+Source Step = 84.2803%
+vernier = 0.0351563
+Source Step = 85.1681%
+Source Step = 86.2334%
+Source Step = 87.2988%
+Source Step = 88.3641%
+Source Step = 89.4295%
+vernier = 0.0527344
+Source Step = 90.7079%
+Source Step = 92.3059%
+Source Step = 93.9039%
+Source Step = 95.5019%
+Source Step = 97.0999%
+vernier = 0.0791016
+Source Step = 98.9376%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Nov 21 18:48:36 2022
+Total elapsed time: 0.349 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 3230
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 141
+fillins = 398
+solver = Normal
+Matrix Compiler1:    1581 opcodes
+Matrix Compiler2: 18.62 KB object code size  2.7/2.2/[0.7]
+
